@@ -30,4 +30,13 @@
 </a>
 
 <!--START_SECTION:waka-->
+```text
+Week: 25 May, 2021 - 01 June, 2021
+
+TypeScript   28 mins         █████████████▒░░░░░░░░░░░   53.07 % 
+JavaScript   9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.68 % 
+JSON         8 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Markdown     4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Git Config   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+```
 <!--END_SECTION:waka-->
