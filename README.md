@@ -8,7 +8,7 @@
 <h1 align="center">Tools</h1>
 <div align="center">
     <img src="https://img.shields.io/static/v1?label=IDE&message=IntelliJ&color=blue&logo=intellij-idea&style=for-the-badge&logoColor=coral">
-    <img src="https://img.shields.io/static/v1?label=IDE%20Framework&message=WebStorm&logo=webstorm&color=green&style=for-the-badge&logoColor=coral">
+    <img src="https://img.shields.io/static/v1?label=IDE&message=WebStorm&logo=webstorm&color=green&style=for-the-badge&logoColor=coral">
     <img src="https://img.shields.io/static/v1?label=DB&message=PostgreSQl&color=white&logo=postgresql&style=for-the-badge&logoColor=008bb9">
     <img src="https://img.shields.io/static/v1?label=Web%20Framework&message=Nuxt.js&color=green&style=for-the-badge">
 </div>    
