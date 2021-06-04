@@ -44,5 +44,5 @@ Markdown     15 mins         ▓░░░░░░░░░░░░░░░░
 
 <h1 align="center">Extras</h1>
 <div align="center">
-<a href='https://ko-fi.com/A0A74URSN' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A74URSN)
 </div>
