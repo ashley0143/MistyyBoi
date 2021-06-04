@@ -4,8 +4,6 @@
 > Discord: MistyyBoi#4836<br>
 > E-mail: dyeaaronjr@outlook.com
 
-<a href='https://ko-fi.com/A0A74URSN' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
 <br>
 <h1 align="center">Tools</h1>
 <div align="center">
@@ -43,3 +41,5 @@ JavaScript   23 mins         █░░░░░░░░░░░░░░░░
 Markdown     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 ```
 <!--END_SECTION:waka-->
+
+<a href='https://ko-fi.com/A0A74URSN' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
