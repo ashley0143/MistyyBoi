@@ -32,12 +32,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 June, 2021 - 24 June, 2021
-
-TypeScript   47 mins         ████████████████▒░░░░░░░░   65.17 % 
-Git Config   19 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.27 % 
-Markdown     3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-JSON         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
